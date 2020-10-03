@@ -3,7 +3,8 @@
 Repo ini berisi :
 1. Jawaban soal nomor 1 (Javascript)
 2. Jawaban soal nomor 2 (Javascript)
-3. Jawab soal nomor 4 dengan menggunakan ReactJs dan MySql
+3. Screenshot untuk jawaban soal nomor 4
+4. Aplikasi CRUD untuk soal nomor 4 dengan menggunakan ReactJs dan MySql
 
 Note: dependencies yang dibutuhkan untuk menjalankan soal no 3 :
 - body-parser
