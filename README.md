@@ -6,7 +6,7 @@ Repo ini berisi :
 3. Screenshot untuk jawaban soal nomor 4
 4. Aplikasi CRUD untuk soal nomor 4 dengan menggunakan ReactJs dan MySql
 
-Note: dependencies yang dibutuhkan untuk menjalankan soal no 3 :
+Note: dependencies yang dibutuhkan untuk menjalankan soal no 4 :
 - body-parser
 - cors
 - express
